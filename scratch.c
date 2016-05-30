@@ -33,7 +33,7 @@
 
 #define OPTARGS	"X:"
 
-int
+intaa 
 main(int argc, char **argv)
 {
     int flag;
